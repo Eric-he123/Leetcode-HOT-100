@@ -6,3 +6,9 @@
 - /2239/. Find Closest Number to Zero
 - /1768/. Merge Strings Alternately
 - /13/. Roman to Integer
+- /392/. Is Subsequence
+- /14/. Longest Common Prefix
+- /238/. Product of Array Except Self
+- /42/. Trapping Rain Water
+- 121/. Best Time to Buy and Sell Stock
+- /192/. Longest Increasing Path in a Matrix
