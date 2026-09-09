@@ -11,4 +11,15 @@
 - /238/. Product of Array Except Self
 - /42/. Trapping Rain Water
 - 121/. Best Time to Buy and Sell Stock
-- /192/. Longest Increasing Path in a Matrix
+- /329/. Longest Increasing Path in a Matrix
+- /857/. Minimum Cost to Hire K Workers
+- /228/. Summary Ranges
+- /56/. Merge Intervals
+- /54/. Spiral Matrix
+- /48/. Rotate Image
+- /771/. Jewels and Stones
+- /217/. Contains Duplicate
+- /383/. Ransom Note
+- /36/. Valid Sudoku
+- /169/. Majority Element
+- /128/. Longest Consecutive Sequence
